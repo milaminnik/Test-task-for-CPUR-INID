@@ -20,4 +20,4 @@ matplotlib 3.3.4
 seaborn 0.11.1
 scipy 1.6.2
 sklearn 0.24.1
-geopy 1.9.1
+re 2.2.1
